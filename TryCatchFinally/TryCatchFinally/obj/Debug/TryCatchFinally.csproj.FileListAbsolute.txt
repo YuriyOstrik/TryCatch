@@ -1,0 +1,7 @@
+C:\Users\Юрий Острик\source\repos\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe.config
+C:\Users\Юрий Острик\source\repos\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe
+C:\Users\Юрий Острик\source\repos\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.pdb
+C:\Users\Юрий Острик\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csproj.AssemblyReference.cache
+C:\Users\Юрий Острик\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\Юрий Острик\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.exe
+C:\Users\Юрий Острик\source\repos\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.pdb
